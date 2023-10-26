@@ -1,7 +1,5 @@
 ### install packages
 
-### Ask for name and Email ID
-
 echo "Enter your name: "
 read NAME
 echo "Enter Mail ID"
